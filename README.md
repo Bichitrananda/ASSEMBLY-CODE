@@ -1,6 +1,8 @@
 # 8086-ASSEMBLY-CODE
-lab1.asm:  -program for counting number of characters in a given string
+
+lab1.asm:  -program for counting number of characters in a given string                                                                    
 lab2_8.asm: -demonstrating the addition and subtrction instruction for 8-bit
+
 lab2_16.asm:  -demonstrating the addition and subtrction instruction for 16-bit
 lab3.asm:   -program for finding the sum of n elements
 lab4.asm:-Write an Assembly program in 8086 for finding the factorial of any number between 0 and 5
